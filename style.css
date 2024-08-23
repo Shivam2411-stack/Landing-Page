@@ -282,3 +282,17 @@ footer #right{
     align-items: center;
     padding: 10px;
 }
+@media  screen and (max-width:600px) {
+    
+    .social-media{
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: flex-start;
+     gap: 5px;
+     word-spacing: 50px;
+    }
+    #right{
+        display: none;
+    }
+}
