@@ -284,8 +284,12 @@ footer #right{
     align-items: center;
     padding: 10px;
 }
-@media  screen and (max-width:600px) {
-    
+@media  screen and (max-width:650px) {
+    #arrow{
+        height: 40px;   
+        width: 40px;
+    }
+
     .social-media{
      display: flex;
      justify-content: center;
@@ -312,7 +316,9 @@ footer #right{
 
     }
     #left{
-        width: 60%;
+        width: 100%;
+
+        justify-content: center;
     }
     #section1 h1{
         font-size: 25px;
