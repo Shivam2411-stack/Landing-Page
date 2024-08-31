@@ -160,7 +160,26 @@
                 Contact Us - Mail: <i>j&kltd@gmail.com</i>
             </p>
         </div>
+       
     </footer>
+    <a href="#left" ><img src="arrowr.png" alt="reverse arrow" id="ra"></a>
+    <script>
+        window.addEventListener('scroll',function(){
+            var arrow = document.querySelector('#ra');
+            if(window.scrollY>400){
+                arrow.style.display = 'block';
+                arrow.style.height = '30px';
+                arrow.style.width = '30px';
+                arrow.style.borderRadius='3px';
+                arrow.styel.boxShadow = '0px 2px 4px 0.3456px black';
+                arrow.style.transition='all 0.5s ease-in-out'
+            }else{
+                arrow.style.display = 'none';
+            }
+        })
+        
+        
+    </script>
 </body>
 
 </html>
