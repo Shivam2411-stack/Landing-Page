@@ -18,6 +18,6 @@ JavaScript: For dynamic content and interactive features.
 # Contact
 For any questions or suggestions, feel free to reach out:
 
-Email: nandlalpal240@gmail.com
-LinkedIn: 
-GitHub: Your GitHub Profile
+Email: nandlalpal240@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/shivam-pal-1025b7285/ <br>
+GitHub: https://github.com/Shivam2411-stack <br>
